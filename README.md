@@ -45,13 +45,9 @@
 
 ### 다른 제출 방법 (선택)
 
-<details>
-<summary>클릭하여 확인</summary>
-
 - **Git**: `test/` 폴더에 파일 복사 후 `git add test/ && git commit -m "제출" && git push`
 - **GitHub Desktop**: repository 클론 후 `test/`에 파일 저장, Commit & Push
 
-</details>
 
 ---
 
